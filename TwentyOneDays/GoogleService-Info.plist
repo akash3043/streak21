@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>538405407441-l81oe2qfmqlncigqurv88i6p3r1j174m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.538405407441-l81oe2qfmqlncigqurv88i6p3r1j174m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxWswJiAv7c8rb7__tCi2ih2E6OL6Uk7Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538405407441</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Akash.TwentyOneDays</string>
+	<key>PROJECT_ID</key>
+	<string>habit-former-18326</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habit-former-18326.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538405407441:ios:c2e4f2145db5200ace53f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://habit-former-18326.firebaseio.com</string>
+</dict>
+</plist>
